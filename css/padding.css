@@ -1,0 +1,49 @@
+/* Padding 1rem is 16px times 1 (margin-1 to 4)  */
+
+.padding-y-1 {
+  /* 16px on top and bottom */
+  padding: 1rem 0;
+}
+.padding-y-2 {
+  /* 16px times 1.5 on top and bottom */
+  padding: 1.5rem 0;
+}
+.paddingy-y-3 {
+  /* 16px times 2 on top and bottom */
+  padding: 2rem 0;
+}
+
+.padding-y-4 {
+  /* 16px times 3 on top and bottom */
+  padding: 3rem 0;
+}
+
+.padding-y-5 {
+  /* 16px times 4 on top and bottom */
+  padding: 4rem 0;
+}
+
+/* Padding 1rem is 16px times 1 */
+
+.padding-1 {
+  /* 16px all around */
+  padding: 1rem;
+}
+.padding-2 {
+  /* 16px times 1.5 all around */
+  padding: 1.5rem;
+}
+.paddingy-3 {
+  /* 16px times 2 alla around */
+  padding: 2rem;
+}
+
+.padding-4 {
+  /* 16px times 3 all around*/
+  padding: 3rem;
+}
+
+.padding-5 {
+  /* 16px times 4 all around*/
+  padding: 4rem;
+}

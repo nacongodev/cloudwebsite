@@ -1,0 +1,48 @@
+/* Margin 1rem is 16px times 1 (margin-1 to 4)  */
+
+.margin-y-1 {
+  /* 16px on top and bottom */
+  margin: 1rem 0;
+}
+.margin-y-2 {
+  /* 16px times 1.5 on top and bottom */
+  margin: 1.5rem 0;
+}
+.marginy-y-3 {
+  /* 16px times 2 on top and bottom */
+  margin: 2rem 0;
+}
+
+.margin-y-4 {
+  /* 16px times 3 on top and bottom */
+  margin: 3rem 0;
+}
+
+.margin-y-5 {
+  /* 16px times 4 on top and bottom */
+  margin: 4rem 0;
+}
+
+/* Margin 1rem is 16px times 1 */
+.margin-1 {
+  /* 16px all around */
+  margin: 1rem;
+}
+.margin-2 {
+  /* 16px times 1.5 all around */
+  margin: 1.5rem;
+}
+.marginy-3 {
+  /* 16px times 2 alla around */
+  margin: 2rem;
+}
+
+.margin-4 {
+  /* 16px times 3 all around*/
+  margin: 3rem;
+}
+
+.margin-y-5 {
+  /* 16px times 4 all around*/
+  margin: 4rem;
+}
