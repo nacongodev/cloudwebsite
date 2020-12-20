@@ -179,6 +179,17 @@ img {
   transform: translateY(-15px);
 }
 
+.portofolio-head img {
+  width: 200px;
+  /* Justify a single element in a grid to the end of the container  */
+  justify-self: flex-end;
+}
+
+.portofolio-sub-head {
+  width: 300px;
+  justify-self: flex-end;
+}
+
 /* Footer */
 
 .footer .social a {
