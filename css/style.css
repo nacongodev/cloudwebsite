@@ -212,6 +212,9 @@ img {
 .footer .social a {
   margin: 0 10px;
 }
+.footer .social a:hover {
+  color: black;
+}
 /* Tablets and under */
 @media (max-width: 768px) {
   .grid,
