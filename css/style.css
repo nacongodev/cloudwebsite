@@ -70,9 +70,9 @@ img {
   position: relative;
 }
 
-.maincontent h1 {
+/* .maincontent h1 {
   font-size: 40px;
-}
+} */
 
 .maincontent p {
   margin: 20px 0;
@@ -196,8 +196,7 @@ img {
 }
 
 .portofolio-main .card {
-  border-radius: 30px;
-  padding: 20px;
+  padding: 30px;
 }
 
 .portofolio-main .grid > *:first-child {
